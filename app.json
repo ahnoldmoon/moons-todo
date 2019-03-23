@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "kawai_app",
-    "slug": "kawai.munnt.com",
+    "name": "kawai To Do",
+    "description":"moons first memo app with React Native",
+    "slug": "kawai-todo",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
