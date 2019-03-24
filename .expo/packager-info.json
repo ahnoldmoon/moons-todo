@@ -1,7 +1,9 @@
 {
-  "packagerPort": null,
-  "packagerPid": null,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPort": 19005,
+  "packagerPid": 11780,
+  "expoServerNgrokUrl": "https://xz-3c9.anonymous.kawai-munnt-com.exp.direct",
+  "packagerNgrokUrl": "https://packager.xz-3c9.anonymous.kawai-munnt-com.exp.direct",
+  "ngrokPid": 10504,
+  "devToolsPort": 19003,
+  "expoServerPort": 19004
 }
